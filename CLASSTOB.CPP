@@ -1,7 +1,7 @@
 //class to basic/primitive type(implemented through casting operator)
 #include<iostream.h>
 #include<conio.h>
-//using namespace std;
+using namespace std;
 class Complex
 {
  private:
