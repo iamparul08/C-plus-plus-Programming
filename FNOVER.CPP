@@ -1,7 +1,7 @@
 //function overloading
 #include<iostream.h>
 #include<conio.h>
-//using namespace std;
+using namespace std;
 int volume(int);
 double volume(double,int);
 long volume(long,int,int);
