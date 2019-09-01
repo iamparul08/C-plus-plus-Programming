@@ -1,7 +1,7 @@
 //primitive/basic to class type(implemented through constructors)
-/*#include<iostream.h>
+#include<iostream.h>
 #include<conio.h>
-//using namespace std;
+using namespace std;
 class Complex
 {
  private:
@@ -28,4 +28,4 @@ void main()
  c1=x;     //primitive type to class type
  c1.showData();
  getch();
-} */
+} 
