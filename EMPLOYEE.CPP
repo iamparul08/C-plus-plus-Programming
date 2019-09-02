@@ -2,7 +2,7 @@
 #include<iostream.h>
 #include<conio.h>
 #include<iomanip.h>
-//using namespace std;
+using namespace std;
 class Employee
 {
  private:
