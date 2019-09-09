@@ -1,4 +1,4 @@
-//hierarchial inheritance
+//hierarchical inheritance
 #include<iostream.h>
 #include<conio.h>
 //using namespace std;
