@@ -1,7 +1,7 @@
 //shows how the unary minus operator is overloaded
 #include<iostream.h>
 #include<conio.h>
-//using namespace std;
+using namespace std;
 class Space
 {
  int x,y,z;
