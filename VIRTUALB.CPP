@@ -1,13 +1,11 @@
-/*introducing virtual base class
-We occasionally face a problem in using multiple inheritance.
-When a fn with the same name appears in more than one base class.
-Ambiguity may also arise in single inheritance applications
-due to this drawback, virtual base class has been introduced*/
+//introducing virtual base class
+
 /*The dublication of inherited members due to these multiple paths can be
 avoided by making the common base class as virtual base class.*/
 
 #include<iostream.h>
 #include<conio.h>
+using namespace std;
 class student
 {
  protected:
