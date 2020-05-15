@@ -2,6 +2,7 @@
 #include<iostream.h>
 #include<fstream.h>
 #include<conio.h>
+using namespace std;
 void main()
 {
  clrscr();
