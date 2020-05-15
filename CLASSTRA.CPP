@@ -3,6 +3,7 @@
 
 #include<iostream.h>
 #include<conio.h>
+using namespace std;
 class matrix
 {
  int a[10][10],i,j,m,n;
