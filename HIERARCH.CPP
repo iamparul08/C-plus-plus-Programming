@@ -1,7 +1,7 @@
 //hierarchical inheritance
 #include<iostream.h>
 #include<conio.h>
-//using namespace std;
+using namespace std;
 class A //single base class
 {
     public:
