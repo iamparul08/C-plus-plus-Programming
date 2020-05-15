@@ -1,5 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
+using namespace std;
 class sample{
 int n,m,a,num,s;
 public:
