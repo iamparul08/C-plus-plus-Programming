@@ -1,6 +1,7 @@
 //copy constructor
 #include<iostream.h>
 #include<conio.h>
+using namespace std;
 class code{
 	int id;
 public:
