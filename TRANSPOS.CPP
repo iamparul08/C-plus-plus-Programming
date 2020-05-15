@@ -1,5 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
+using namespace std;
 class trans{
 int m,n,i,j,a[10][10];
 public:
