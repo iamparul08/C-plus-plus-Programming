@@ -1,6 +1,7 @@
 /*upper triangular matrix*/
 #include<iostream.h>
 #include<conio.h>
+using namespace std;
 void main()
 {
  int a[10][10],i,j,n,m;
